@@ -10,7 +10,6 @@ If you are looking for a password of my keys, please use this password below:
 
 1) When you decrypt my keys with this password, save it in the file pass.pem  you will need to run chmod command on your keys, because you wont be able to connect to the instance. 
 
-2) Go to the directory where you store my decrypted keys and use this command to connect to my instance: 
 
-ssh -i "pass.pem" ubuntu@ec2-54-176-172-236.us-west-1.compute.amazonaws.com
+
 
